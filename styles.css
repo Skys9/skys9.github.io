@@ -13,6 +13,10 @@ button {
     font-size: 16px;
 }
 
+iframe {
+    border: none;
+}
+
 .peepeepoopoo {
     font-family: "Comic Sans MS", serif;
     color: saddlebrown;
